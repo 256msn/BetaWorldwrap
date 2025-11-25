@@ -1,3 +1,0 @@
-name: BetaWorldWrap
-version: '${project.version}'
-main: net.utils.betaworldwrap.BetaWorldWrap
